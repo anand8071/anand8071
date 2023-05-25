@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ❓ If you have any questions or would like to discuss potential collaborations or job openings, feel free to reach out to me:                anandkumar8071@gmail.com
 - 📚 I'm always eager to connect with like-minded individuals and expand my knowledge in this ever-evolving field.
 - 📚 Continuous learning is my motto, and I'm always eager to connect with like-minded individuals and stay up-to-date with the latest        advancements in the industry.
--->Thank you for visiting my GitHub profile! Let's connect and explore the exciting world of data together!
+-->Thank you for visiting my GitHub profile! Let's connect and explore the exciting world of data together!  
