@@ -5,7 +5,7 @@
 
 - 🔭 My skills include proficiency in Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, AI, and Deep Learning. **.**
 - 🌱 I love exploring innovative projects and contributing to impactful initiatives. **.**
-- 👯 On my GitHub, you'll find a collection of projects showcasing my expertise in data analysis, predictive modeling, and visualization: **anand8071**
+- 👯 On my GitHub, you'll find a collection of projects showcasing my expertise in data analysis, Machine Learning, and visualization: **anand8071**
 - 🤝 I'm actively seeking job opportunities in the field of Data Science and Data Analytics where I can contribute my skills and knowledge **.**
 - 👨‍💻 All of my projects are available at [anand8071](anand8071)
 - 💬 If you have any questions or would like to discuss potential collaborations or job openings **.**
