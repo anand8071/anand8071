@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">I'm currently mastering Data Science and Data Analytics at ExcelR in Bangalore, India.</h3>
-<img align="right" alt="Coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif>"
+
 - 🔭 My skills include proficiency in Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, AI, and Deep Learning. **.**
 - 🌱 I love exploring innovative projects and contributing to impactful initiatives. **.**
 - 👯 On my GitHub, you'll find a collection of projects showcasing my expertise in data analysis, predictive modeling, and visualization: **anand8071**
